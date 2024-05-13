@@ -1,8 +1,7 @@
 Package: DemProjrActualTest
 Title: Demonstrate projr
-Version: 0.1.1
-Authors@R: person("Miguel", "Rodo", , "miguel.rodo@uct.ac.za", role =
-        c("aut", "cre"))
+Version: 0.1.2
+Authors@R: person("Miguel", "Rodo", , "miguel.rodo@uct.ac.za", role = c("aut", "cre"))
 Maintainer: Miguel Rodo <miguel.rodo@uct.ac.za>
 Description: Demonstrate projr
 License: {{ License }}
