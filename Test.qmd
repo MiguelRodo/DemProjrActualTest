@@ -1,0 +1,17 @@
+---
+title: Demonstrate projr
+format:
+  html:
+    embed-resources: true
+---
+
+# Introduction
+
+```{r}
+path_plot <- projr::projr_path_get("output", "p.png")
+png(path_plot)
+plot(1:10)
+points(1, 2)
+dev.off()
+```
+

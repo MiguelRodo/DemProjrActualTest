@@ -1,0 +1,11 @@
+citHeader("To cite `DemProjrActualTest` in publications use:")
+
+bibentry(bibtype = "Misc",
+         key = "rodo",
+         title = "DemProjrActualTest: Demonstrate projr",
+         author = person(given = "Miguel",
+                         family = "Rodo",
+                         email = "miguel.rodo@uct.ac.za"),
+         url = "https://github.com//DemProjrActualTest/#readme",
+         abstract = "Demonstrate projr",
+         version = "0.0.0-1")
