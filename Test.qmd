@@ -11,6 +11,7 @@ format:
 path_plot <- projr::projr_path_get("output", "p.png")
 png(path_plot)
 plot(1:10)
+points(2, 3)
 points(1, 2)
 dev.off()
 ```
